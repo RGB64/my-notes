@@ -1,5 +1,6 @@
 # My notes
 
+```
 echo "# my-notes" >> README.md
 git init
 git add README.md
@@ -7,9 +8,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/RGB64/my-notes.git
 git push -u origin main
-
+```
 OR
-
+```
 git remote add origin https://github.com/RGB64/my-notes.git
 git branch -M main
 git push -u origin main
+```
